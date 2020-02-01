@@ -1,2 +1,2 @@
-# bioBLE
-Integration Folder for bioBLE project
+# physioBLE
+Integration Folder for bioBLE projects
