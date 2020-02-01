@@ -1,2 +1,2 @@
 # physioBLE
-Integration Folder for bioBLE projects
+Integration Folder for race training data analysis projects
