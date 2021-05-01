@@ -1,5 +1,5 @@
 # physioBLE
-Integration Folder for race training data analysis projects
+Integration Folder for race/training physio-data analysis projects
 
 4_metrics_data_visualization.ipynb - a Jupyter Notebook file for an initial look at the residual blood oxygen data collected during a training session.
 
